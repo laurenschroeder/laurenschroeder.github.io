@@ -1,0 +1,48 @@
+body{
+				text-align: center;
+
+  				background: rgba(1,0,0,1);
+      			
+      			
+      			color: rgba(55,26,55,1);
+      			font-family: 'Anaheim', sans-serif;
+      			margin:100px 300px 100px 100px;
+			}
+			header{
+				text-align: left;
+				font-family: 'Anaheim', sans-serif;
+			}
+			p{
+				font-size: 22px;
+			}
+			h1{
+				font-size: 70px;
+			}
+			img{
+				margin:40px 0px 0px 0px;
+				border: 7px solid white;
+				border-radius: 20px;
+				height: 200px;
+
+			}
+			ul{
+				padding: 10px;
+				background: rgba(35,63,13,0.5);
+			}
+			li{
+				display:inline;
+				padding: 0px 10px 0px 10px;
+			}
+			a{
+				color:black;
+			}
+
+			@media(max-width: 500px){
+				h1{
+					font-size: 36px;
+				}
+				li{
+					display:block;
+					padding: 5px;
+				}
+			}
