@@ -27,7 +27,7 @@ body{
 			}
 			ul{
 				padding: 10px;
-				background: rgba(35,63,13,0.5);
+				background: rgba(3,0,13,0.5);
 			}
 			li{
 				display:inline;
@@ -40,6 +40,7 @@ body{
 			@media(max-width: 500px){
 				h1{
 					font-size: 36px;
+					color: white;
 				}
 				li{
 					display:block;
