@@ -30,7 +30,7 @@ body{
 				height: 200px;
 
 			}
-			
+
 
 			ul{
 				padding: 10px;
@@ -69,7 +69,7 @@ body{
 			    width: 100%;
 			    height: 100%;
 			    display: none;
-			    color: #FFF;
+			    color: white;
 			}
 			.image-container:hover .after {
 			    display: block;
