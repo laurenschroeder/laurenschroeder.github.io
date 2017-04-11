@@ -1,2 +1,3 @@
-name: Hank Quinlan, Horrible Cop
+name: Lauren Schroeder
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title

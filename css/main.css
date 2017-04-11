@@ -8,6 +8,10 @@ body{
       			font-family: 'Anaheim', sans-serif;
       			margin:100px 300px 100px 100px;
 			}
+			.post{
+				text-align: left;
+				font-family: 'Anaheim', sans-serif;
+			}
 			header{
 				text-align: left;
 				font-family: 'Anaheim', sans-serif;
@@ -26,16 +30,20 @@ body{
 				height: 200px;
 
 			}
+			
+
 			ul{
 				padding: 10px;
-				background: rgba(3,0,13,0.3);
+				background: #201f35;
+				border: blue;
 			}
 			li{
 				display:inline;
 				padding: 0px 10px 0px 10px;
+				
 			}
 			a{
-				color:black;
+				color:white;
 			}
 
 			@media(max-width: 500px){
@@ -52,7 +60,7 @@ body{
 			    position: relative;
 			    width: 200px;
 			    display: inline-block;
-			    height: 300px;
+			    height: 200px;
 			}
 			.image-container .after {
 			    position: absolute;
@@ -68,3 +76,4 @@ body{
 			    background: rgba(0, 0, 0, .6);
 			}
 			}
+
