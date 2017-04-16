@@ -3,10 +3,11 @@ layout: post
 title: "Ski Resort Map"
 date: 2017-04-16
 ---
-See visualization here:
-https://bl.ocks.org/laurenschroeder/41e78da1ab63c8faf6e43f79a8fca4ca
+### A map of ski resorts across North America. Height of the mountains are proportional to their respective peak height. Inches of snow per year is represented through mountain icon attribute.
 
-![png](capture.png)
+See visualization here:
+
+https://bl.ocks.org/laurenschroeder/41e78da1ab63c8faf6e43f79a8fca4ca
 
 ## Exploratory Analysis
 
