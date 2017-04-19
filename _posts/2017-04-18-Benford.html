@@ -1,0 +1,75 @@
+---
+layout: post
+title: Benford's Law - Montpellier Accounts
+---
+Benford's Law describes a statistical distribution of the first digit of the number. While we may intuitively believe that all digits would occur at the same frequency, this isn't the case. In many financial, scientific, or otherwise natural datasets, the first digit of a number will occur at a predetermined frequency following the Benford distribution. An example I made using city financial accounts available on the <a href="http://data.montpellier3m.fr/">Montpellier open data </a>website illustrates this concept. The data is an account of over 14,000 expenses made by the city of Montpellier over the last 10 years. The Benford distribution is shown in grey, while the first digit distribution of this data is shown in blue. <br>
+<br><br>
+<div class='tableauPlaceholder' id='viz1492507287648' style='position: relative'><noscript><a href='#'><img alt='Montpellier Expenses 2005-2016Benford Distribution ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Be&#47;Benford_0&#47;witherror&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='Benford_0&#47;witherror' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Be&#47;Benford_0&#47;witherror&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1492507287648');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='70%';vizElement.style.height=(divElement.offsetWidth*0.5)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+<br>
+<h1>Random Distribution and Fraud Detection</h1>
+<br>
+On the other hand, randomly generated numbers (generated programatically or by the human brain) will follow more of a uniform distribution. For this reason, understanding the distribution of a dataset can help to understand how the data was collected and whether it is suspect to fraud. When a distribution deviates significantly from the Benford distribution (see below), this could be due to someone having tampered with the dataset.<br><br>
+
+<div class='tableauPlaceholder' id='viz1492507321104' style='position: relative'><noscript><a href='#'><img alt='Randomly Generated Numbers ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ra&#47;RandomNum&#47;witherror&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='RandomNum&#47;witherror' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ra&#47;RandomNum&#47;witherror&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='no' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1492507321104');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='70%';vizElement.style.height=(divElement.offsetWidth*0.5)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+
+<br><br>
+
+
+Presentation for Big Data Montpellier 4/18/2017<br>
+<iframe src="https://docs.google.com/presentation/d/1VBcVeRESoGLulohQStlYK4YGleOvZogqiA0FiHg0v0o/embed?start=false&loop=true&delayms=3000" frameborder="0" width="640" height="379" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<h1>Interpreting Results of the Statistical Tests</h1>
+
+
+Basic statistical tests (Z-value, chi-squared) can be used to evaluate how closely a given dataset follows the Benford distribution, but first, It's important to consider the dataset when interpreting results of Benford analysis. It's key that the dataset is
+<br><br>
+1. Large and vast - there needs to be enough entries to see the distribution (e.g. financial data at the transactional level) and there needs to be several orders of magnitude when calculating the values. There's some flexibility when considering the orders of magnitude of the dataset - calibration on historical data can pull out insight into trends. For example, it's been shown that voting data can be analyzed using the 2nd digit Benford distribution (Walter).
+
+<br><br>
+
+2. Data should not be based on human psychology. For example, prices are generally set to fall below certain psychological barriers (i.e. $1.99 instead of $2) so this type of data is more likely to have a uniform or unique distribution. In the Montpellier expense dataset, there was a column for the expense category code 'Nature'. This distribution of this column was related only to the labelling system in place and followed neither the Benford nor the uniform distribution.
+<br><br>
+
+<div class='tableauPlaceholder' id='viz1492507084985' style='position: relative'><noscript><a href='#'><img alt='Montpellier Expenses 2005-2016Benford Distribution ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Be&#47;BenfordNaturePsych&#47;witherror&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='BenfordNaturePsych&#47;witherror' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Be&#47;BenfordNaturePsych&#47;witherror&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1492507084985');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='70%';vizElement.style.height=(divElement.offsetWidth*0.5)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<br>
+<br>
+3. There must be a significantly large amount of fraudulent entries to detect fraud.
+<br><br>
+This analysis compares the number of observed 1st digit proportions to the expected and calculates the deviation. A data set can't be expected to follow the Benford distrubtion exactly, so we need to understand what level of deviation is an indicator of fraud. Benford's law is based on a logarithmic distribution, similar to a Chi-square distribtuion. A full discription of the calculation methods can be found in <a href="https://www.researchgate.net/publication/241401706_The_Effective_Use_of_Benford's_Law_to_Assist_in_Detecting_Fraud_in_Accounting_Data">this publication </a>by Cindy Durtschi.  
+<br>The standard deviation for each digit’s
+expected proportion is:
+<br><br>si = [pi
+* (1– pi)/n]1/2 <br><br>
+Where: si is the standard deviation of each digit, 1 through 9<br>
+pi is the expected proportion of a particular digit based on Benford’s law <br>
+n is the number of observations in the data set (particular account).<br><br>
+A z-statistic can be used to determine whether a particular digit’s proportion from a set of
+data is suspect. In other words, does a digit appear more or less frequently in a particular
+position than a Benford distribution would predict? The z-statistic is calculated as follows<br>
+z = (|(po – pe| – 1/(2n))/si <br><br>
+Where: po is the observed proportion in the data set<br>
+pe is the expected proportion based on Benford’s law;<br>
+si is the standard deviation for a particular digit; and<br>
+n is the number of observations (the term 1/(2n) is a continuity correction factor and is
+used only when it is smaller than the absolute value term).<br><br>
+
+In looking at the digit '5', it visually appears to have the greatest deviation from the Benford distribution. 
+<br> si=[0.0792*(1-0.0792)/14453]^0.5 = 0.002246 <br>
+z=(0.0032-1/2*14453)/si=1.4<br><br>
+For p=0.05, Zcrit=1.96 and for p=0.1, Zcrit=1.64
+<br>
+Therefore there isn't a significant deviation from the Benford distribution for this particular value and the Montpellier dataset doesn't seem to be signficantly different than the Benford distribution at a 95% confidence interval.
+<br><br>
+
+
+
+
+
+1.Cindy Durtschi, Dec 22, 2014. "The Effective Use of Benford's Law to Assist in Detecting Fraud in Accounting Data." Journal of Forensic Accounting1524-5586/Vol.V(2004), pp. 17-34.
+<br>
+2. Walter R. Mebane, Jr. 2008. “Election Forensics: The Second-digit Benford’s Law Test
+and Recent American Presidential Elections.” In R. Michael Alvarez, Thad E. Hall and
+Susan D. Hyde, eds., Election Fraud: Detecting and Deterring Electoral Manipulation.
+Washington, DC: Brookings Press, pp. 162–181.

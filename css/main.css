@@ -33,6 +33,7 @@ body{
 			}
 
 
+
 			ul{
 				padding: 10px;
 				background: #201f35;
@@ -61,7 +62,7 @@ body{
 			    position: relative;
 			    width: 200px;
 			    display: inline-block;
-			    height: 200px;
+			    height: 500px;
 			}
 			.image-container .after {
 			    position: absolute;
