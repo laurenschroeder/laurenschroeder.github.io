@@ -11,7 +11,7 @@ h2{font-size:32px !important;
 h3{
 	font-size: 20px !important;
 	color:navy !important;
-	width:500px !important;
+	max-width:500px !important;
 	font-family: 'Open Sans', sans-serif !important;
 	padding: 20px !important;
   margin:20px !important;
@@ -20,7 +20,7 @@ h3{
 h4{
   font-size: 25px !important;
   color:navy !important;
-  width:800px !important;
+  max-width:1000px !important;
   font-family: 'Open Sans', sans-serif !important;
   padding: 20px !important;
   margin:20px !important;
