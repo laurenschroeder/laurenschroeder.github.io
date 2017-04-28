@@ -32,7 +32,7 @@ function draw(error,geo_data,data,bpsdata) {
 
    d3.select("#area2")
       .append("h4")
-      .text("Mouse over points to see schools that were evaluated. Click on a school to see when the building was last renovated. Note the ten schools that received poor environmental capacity but have the capacity to be expanded. The Boston International Newcomer's Academy, for example, has had no major investments since it was built in 1922.")
+      .text("Mouse over points to see schools that were evaluated. Click on a school to see when the building was last renovated. Note the ten schools that received poor environmental capacity (large dot) but have the capacity to be expanded (blue). The Boston International Newcomer's Academy, for example, has had no major investments since it was built in 1922.")
       .style("color","#283041");
 
 //create new zoom behavior
@@ -46,7 +46,7 @@ function draw(error,geo_data,data,bpsdata) {
     var svg = d3.select("#area2")
       .append("svg")
       .attr("width",width+margin-500)
-      .attr("height", height+margin)
+      .attr("height", height+margin-200)
       //call the zoom before the g group is made to avoid wiggle while panning
       .call(zoom) 
       .append('g')
@@ -148,7 +148,7 @@ var filly=d3.scale.ordinal() //had to repeat, didn't find above
   var ls_w = 35, ls_h = 35;
   var legend_labels=(['Expandable','Not Expandable']);
   legend.append("circle")
-  .attr("cx", 30+width/7)
+  .attr("cx", 30+width/10)
   .data(["Yes","No"]) //just two categories
   .attr("cy", function(d, i){ return height/1.1 - (i*ls_h) - ls_h;})
   .attr('r', 15)
@@ -156,7 +156,7 @@ var filly=d3.scale.ordinal() //had to repeat, didn't find above
   .style("opacity", 0.7);
 
   legend.append("text")
-  .attr("x", 50+width/7)
+  .attr("x", 50+width/10)
   .attr("y", function(d, i){ return height/1.1 - (i*ls_h) - ls_h +4;})
   .text(function(d, i){ return legend_labels[i]; })
   .style('font-family','arial');
@@ -184,11 +184,6 @@ var filly=d3.scale.ordinal() //had to repeat, didn't find above
   .attr("y", function(d, i){ return height/1.1 - (i*ls_h) - ls_h +4;})
   .text(function(d, i){ return legend_labels[i]; })
   .style('font-family','arial');
-
-  legend.append("text")
-  .attr("x", 450+width/7)
-  .attr("y",height/1.1-200)
-  .html(" Environment Evaluation");
 
 //function to zoom in on map (svg) 
  

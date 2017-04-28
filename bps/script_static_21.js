@@ -27,12 +27,12 @@ function draw(error,geo_data,data) {
      
     d3.select("#full")
       .append("h2")
-      .text("21st Century Educational Capacity")
+      .text("21st Century Educational Capacity in Boston")
       .style("color","#283041");
 
    d3.select("#full")
       .append("h3")
-      .text("This total capacity level was evaluated for the schools in each neighborhood. Many neighborhood are at or above capacity, meaning students don't have proper access to these program resources.")
+      .text("This total capacity level was evaluated for the schools in each neighborhood. Many neighborhoods are at or above capacity, meaning students don't have proper access to these program resources.")
       .style("color","#283041");
 
 //create new zoom behavior
