@@ -2,20 +2,24 @@
 layout: post
 title: Benford's Law - Montpellier Accounts
 ---
-I presented Benford's Law to at the Montpellier Data Science April event, giving a theoretical background and an example of Benford's law applied to the Montpellier financial account data. I've got a summary of the content below. I enjoyed being part of this group during my stay in Montpellier and giving a presentation was a great experience (and a challenge for my french!). <br>
+Fraud detection is a vast domain, and there's many different methods that are used. Financial data can come in so many different forms that there isn't one single way to evaluate these datasets. For example, fraud analysts may search payroll accounts for duplicate account names to see if certain individuals are being paid more than one salary. Linear regression is often used to understand abnormalities in datasets: if a credit card transaction varies wildly from historical data, this could be an indicator of credit card fraud. Benford's Law is an interesting tool that can be used to detect whether a dataset occurs by causal course of action or if it was deliberatly contrived. <br><br>
+
+ I presented Benford's Law to at the Montpellier Data Science April event, giving a theoretical background and an example of Benford's law applied to the Montpellier financial account data. I have a summary of the content below. I enjoyed being part of this group during my stay in Montpellier and giving a presentation was a great experience (and a challenge for my french!). <br>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="fr" dir="ltr">Loi de Benford au meetup Big Data chez <a href="https://twitter.com/EpitechMontpel">@EpitechMontpel</a>, super intéressant. Les dépenses de la ville de Montpellier sont validées, ouf 😎 <a href="https://t.co/cYRkan5nzN">pic.twitter.com/cYRkan5nzN</a></p>&mdash; Jeremy Barthe (@jeremyb_) <a href="https://twitter.com/jeremyb_/status/854386020355375106">April 18, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br><br>
 
-Benford's Law describes a statistical distribution of the first digit of the number. While we may intuitively believe that all digits would occur at the same frequency, this isn't the case. In many financial, scientific, or otherwise natural datasets, the first digit of a number will occur at a predetermined frequency following the Benford distribution. An example I made using city financial accounts available on the <a href="http://data.montpellier3m.fr/">Montpellier open data </a>website illustrates this concept. The data is an account of over 14,000 expenses made by the city of Montpellier over the last 10 years. The Benford distribution is shown in grey, while the first digit distribution of this data is shown in blue. <br>
+<h2>What is Benford's Law?</h2> <br>
+
+Benford's Law describes a statistical distribution of the first digit of the number. While we may intuitively believe that all digits would occur at the same frequency, this isn't the case. In many financial, scientific, or otherwise natural datasets, the first digit of a number will occur at a predetermined frequency following the Benford distribution. This law was discovered by scientists and formalized by Benford, an American engineer, after observing the usage pattern in logarithm books. The page wear (and in turn, the frequency of use) of numbers was not uniform, spurring further investigation. <br>An example I made using city financial accounts available on the <a href="http://data.montpellier3m.fr/">Montpellier open data </a>website illustrates this concept. The data is an account of over 14,000 expenses made by the city of Montpellier over the last 10 years. The Benford distribution is shown in grey, while the first digit distribution of this data is shown in blue. The similarity between these two distributions is striking. <br>
 <br><br>
 <div class='tableauPlaceholder' id='viz1492507287648' style='position: relative'><noscript><a href='#'><img alt='Montpellier Expenses 2005-2016Benford Distribution ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Be&#47;Benford_0&#47;witherror&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='Benford_0&#47;witherror' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Be&#47;Benford_0&#47;witherror&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1492507287648');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='70%';vizElement.style.height=(divElement.offsetWidth*0.5)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 <br>
-<h1>Random Distribution and Fraud Detection</h1>
+<h2>Random Distribution and Fraud Detection</h2>
 <br>
-On the other hand, randomly generated numbers (generated programatically or by the human brain) will follow more of a uniform distribution. For this reason, understanding the distribution of a dataset can help to understand how the data was collected and whether it is suspect to fraud. When a distribution deviates significantly from the Benford distribution (see below), this could be due to someone having tampered with the dataset.<br><br>
+Unlike financial datasets, randomly generated numbers (generated programatically or by the human brain) will follow more of a uniform distribution. For this reason, understanding the distribution of a dataset can help to understand how the data was collected and whether it is suspect to fraud. If someone was to create a list of randomly generated numbers to submit in place of valid financial data, these two datasets would have very different distributions. When a distribution deviates significantly from the Benford distribution (see below), this could be due to someone having tampered with the dataset.<br><br>
 
 <div class='tableauPlaceholder' id='viz1492507321104' style='position: relative'><noscript><a href='#'><img alt='Randomly Generated Numbers ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ra&#47;RandomNum&#47;witherror&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='RandomNum&#47;witherror' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ra&#47;RandomNum&#47;witherror&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='no' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1492507321104');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='70%';vizElement.style.height=(divElement.offsetWidth*0.5)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
@@ -26,10 +30,10 @@ On the other hand, randomly generated numbers (generated programatically or by t
 Presentation for Big Data Montpellier 4/18/2017<br>
 <iframe src="https://docs.google.com/presentation/d/1VBcVeRESoGLulohQStlYK4YGleOvZogqiA0FiHg0v0o/embed?start=false&loop=true&delayms=3000" frameborder="0" width="640" height="379" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-<h1>Interpreting Results of the Statistical Tests</h1>
+<h2>Interpreting Results of the Statistical Tests</h2>
 
 
-Basic statistical tests (Z-value, chi-squared) can be used to evaluate how closely a given dataset follows the Benford distribution, but first, It's important to consider the dataset when interpreting results of Benford analysis. It's key that the dataset is
+Basic statistical tests (Z-value, chi-squared) can be used to evaluate how closely a given dataset follows the Benford distribution, but first, consider the dataset when using Benford analysis. To be able to use Benford's law as a valid tool, it's important that the dataset is
 <br><br>
 1. Large and vast - there needs to be enough entries to see the distribution (e.g. financial data at the transactional level) and there needs to be several orders of magnitude when calculating the values. There's some flexibility when considering the orders of magnitude of the dataset - calibration on historical data can pull out insight into trends. For example, it's been shown that voting data can be analyzed using the 2nd digit Benford distribution (Walter).
 
@@ -61,12 +65,13 @@ si is the standard deviation for a particular digit; and<br>
 n is the number of observations (the term 1/(2n) is a continuity correction factor and is
 used only when it is smaller than the absolute value term).<br><br>
 
-In looking at the digit '5', it visually appears to have the greatest deviation from the Benford distribution. 
+In looking at the digit '5' in the dataset above, it visually appears to have the greatest deviation from the Benford distribution. We can calulate the standard error between numbers beginning with 5 in our dataset, and the proportion of numbers beginning with 5 that we would expect to see. 
 <br> si=[0.0792*(1-0.0792)/14453]^0.5 = 0.002246 <br>
+This standard error is then used to calculate the z-score, which turns out to be lower than the critical values needed to show a significant difference. <br>
 z=(0.0032-1/2*14453)/si=1.4<br><br>
 For p=0.05, Zcrit=1.96 and for p=0.1, Zcrit=1.64
 <br>
-Therefore there isn't a significant deviation from the Benford distribution for this particular value and the Montpellier dataset doesn't seem to be signficantly different than the Benford distribution at a 95% confidence interval.
+Therefore there isn't a significant deviation from the Benford distribution for this particular value and the Montpellier dataset doesn't seem to be signficantly different than the Benford distribution at a 95% confidence interval. Although this method alone can't necessarily be used to evaluate a dataset for fraud, it's a useful tool. It's been used in a variety of situations- from detecting abnormalities in published scientific datasets and detection of votor fraud in the 2009 Iranian election.
 <br><br>
 
 
