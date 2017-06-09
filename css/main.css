@@ -15,19 +15,28 @@ body{
 			header{
 				text-align: left;
 				font-family: 'Anaheim', sans-serif;
+				display: inline-block;
 			}
 			p{
 				font-size: 22px;
+				display: inline-block;
 			}
 			h1{
 				font-size: 70px;
 				color:white;
+
+			}
+			h2{
+				font-size: 40px;
+				color:white;
+				display: inline-block;
 			}
 			img{
 				margin:40px 0px 0px 0px;
-				border: 7px solid white;
+				border: 3px solid white;
 				border-radius: 20px;
-				height: 200px;
+				height: 170px;
+				display: inline-block;
 				background: white !important;
 
 			}
@@ -60,9 +69,9 @@ body{
 
 			.image-container {
 			    position: relative;
-			    width: 200px;
+			    width: 50px;
 			    display: inline-block;
-			    height: 500px;
+			    height: 120px;
 			}
 			.image-container .after {
 			    position: absolute;
