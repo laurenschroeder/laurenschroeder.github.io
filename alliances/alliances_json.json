@@ -1,0 +1,4155 @@
+{
+    "links": [
+        {
+            "source": "Mauritania", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Somalia", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Djibouti", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Morocco", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Algeria", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Tunisia", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Libya", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Sudan", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Iraq", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Egypt", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Syria", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Lebanon", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Jordan", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Saudi Arabia", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Yemen", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Kuwait", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Yemen", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Bahrain", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Yemen", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Qatar", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Yemen", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "United Arab Emirates", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Yemen", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Oman", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "United States of America", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Belize", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "United States of America", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guyana", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Canada", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Belize", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Canada", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guyana", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Bahamas", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Belize", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Bahamas", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guyana", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Haiti", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Belize", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Haiti", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guyana", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Dominican Republic", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Belize", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Dominican Republic", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guyana", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Jamaica", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Belize", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Jamaica", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guyana", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Trinidad and Tobago", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Belize", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Trinidad and Tobago", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guyana", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Barbados", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Belize", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Barbados", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guyana", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Dominica", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Belize", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Dominica", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guyana", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Grenada", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Belize", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Grenada", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guyana", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "St. Lucia", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Belize", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "St. Lucia", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guyana", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "St. Vincent and the Grenadines", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Belize", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "St. Vincent and the Grenadines", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guyana", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Antigua & Barbuda", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Belize", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Antigua & Barbuda", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guyana", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "St. Kitts and Nevis", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Belize", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "St. Kitts and Nevis", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guyana", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Mexico", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Belize", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Mexico", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guyana", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Belize", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guatemala", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Belize", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Honduras", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Belize", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "El Salvador", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Belize", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Nicaragua", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Belize", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Costa Rica", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Belize", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Panama", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Belize", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Colombia", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Belize", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Venezuela", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Belize", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guyana", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Belize", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Suriname", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Belize", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Ecuador", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Belize", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Peru", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Belize", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Brazil", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Belize", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Bolivia", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Belize", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Paraguay", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Belize", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Chile", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Belize", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Argentina", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Belize", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Uruguay", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Guatemala", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guyana", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Honduras", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guyana", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "El Salvador", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guyana", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Nicaragua", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guyana", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Costa Rica", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guyana", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Panama", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guyana", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Colombia", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guyana", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Venezuela", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Guyana", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Guyana", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Suriname", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Guyana", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Ecuador", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Guyana", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Peru", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Guyana", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Brazil", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Guyana", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Bolivia", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Guyana", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Paraguay", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Guyana", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Chile", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Guyana", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Argentina", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Guyana", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Uruguay", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "United Kingdom", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Greece", 
+            "value": "5.0"
+        }, 
+        {
+            "source": "Netherlands", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Greece", 
+            "value": "5.0"
+        }, 
+        {
+            "source": "Belgium", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Greece", 
+            "value": "5.0"
+        }, 
+        {
+            "source": "Luxembourg", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Greece", 
+            "value": "5.0"
+        }, 
+        {
+            "source": "France", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Greece", 
+            "value": "5.0"
+        }, 
+        {
+            "source": "Spain", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Greece", 
+            "value": "5.0"
+        }, 
+        {
+            "source": "Portugal", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Greece", 
+            "value": "5.0"
+        }, 
+        {
+            "source": "German Federal Republic", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Greece", 
+            "value": "5.0"
+        }, 
+        {
+            "source": "Italy", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Greece", 
+            "value": "5.0"
+        }, 
+        {
+            "source": "United States of America", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Germany", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "United States of America", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Poland", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "United States of America", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Hungary", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "United States of America", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Czech Republic", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Canada", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Germany", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Canada", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Poland", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Canada", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Hungary", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Canada", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Czech Republic", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "United Kingdom", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Germany", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "United Kingdom", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Poland", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "United Kingdom", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Hungary", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "United Kingdom", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Czech Republic", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Netherlands", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Germany", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Netherlands", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Poland", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Netherlands", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Hungary", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Netherlands", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Czech Republic", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Belgium", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Germany", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Belgium", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Poland", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Belgium", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Hungary", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Belgium", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Czech Republic", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Luxembourg", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Germany", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Luxembourg", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Poland", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Luxembourg", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Hungary", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Luxembourg", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Czech Republic", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "France", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Germany", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "France", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Poland", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "France", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Hungary", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "France", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Czech Republic", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Spain", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Germany", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Spain", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Poland", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Spain", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Hungary", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Spain", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Czech Republic", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Portugal", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Germany", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Portugal", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Poland", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Portugal", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Hungary", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Portugal", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Czech Republic", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Germany", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Poland", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Germany", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Hungary", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Germany", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Czech Republic", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Germany", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Italy", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Germany", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Greece", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Germany", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Norway", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Germany", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Denmark", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Germany", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Iceland", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Germany", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Turkey", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Poland", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Hungary", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Poland", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Czech Republic", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Poland", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Italy", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Poland", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Greece", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Poland", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Norway", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Poland", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Denmark", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Poland", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Iceland", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Poland", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Turkey", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Hungary", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Czech Republic", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Hungary", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Italy", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Hungary", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Greece", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Hungary", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Norway", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Hungary", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Denmark", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Hungary", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Iceland", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Hungary", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Turkey", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Czech Republic", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Italy", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Czech Republic", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Greece", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Czech Republic", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Norway", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Czech Republic", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Denmark", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Czech Republic", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Iceland", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Czech Republic", 
+            "start": 1999.0, 
+            "stop": 2020.0, 
+            "target": "Turkey", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Somalia", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Morocco", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Algeria", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Tunisia", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Libya", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Sudan", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Iraq", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Egypt", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Syria", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Lebanon", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Jordan", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Saudi Arabia", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Yemen", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Yemen", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Kuwait", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Yemen", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Bahrain", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Yemen", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Qatar", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Yemen", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "United Arab Emirates", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Guinea", 
+            "start": 2004.0, 
+            "stop": 2020.0, 
+            "target": "Liberia", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Germany", 
+            "start": 1990.0, 
+            "stop": 2020.0, 
+            "target": "Russia", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Syria", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Lebanon", 
+            "value": "1.0"
+        }, 
+        {
+            "source": "Romania", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Turkey", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Greece", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Bulgaria", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Greece", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Romania", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Hungary", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "Ukraine", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "North Korea", 
+            "start": 1991.0, 
+            "stop": 2020.0, 
+            "target": "South Korea", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Finland", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Bulgaria", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Romania", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "France", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Russia", 
+            "value": "1.0"
+        }, 
+        {
+            "source": "Bulgaria", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Turkey", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Moldova", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Russia", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Moldova", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Ukraine", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Moldova", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Belarus", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Moldova", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Armenia", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Moldova", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Georgia", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Moldova", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Azerbaijan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Moldova", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Turkmenistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Moldova", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Tajikistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Moldova", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Kyrgyzstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Moldova", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Moldova", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Kazakhstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Ukraine", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Belarus", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Armenia", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Georgia", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Azerbaijan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Turkmenistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Tajikistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Kyrgyzstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Kazakhstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Ukraine", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Belarus", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Ukraine", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Armenia", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Ukraine", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Georgia", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Ukraine", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Azerbaijan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Ukraine", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Turkmenistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Ukraine", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Tajikistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Ukraine", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Kyrgyzstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Ukraine", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Ukraine", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Kazakhstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Belarus", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Armenia", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Belarus", 
+            "start": 1993.0, 
+            "stop": 2020.0, 
+            "target": "Georgia", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Belarus", 
+            "start": 1993.0, 
+            "stop": 2020.0, 
+            "target": "Azerbaijan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Belarus", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Turkmenistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Belarus", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Tajikistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Belarus", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Kyrgyzstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Belarus", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Belarus", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Kazakhstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Armenia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Georgia", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Armenia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Azerbaijan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Armenia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Turkmenistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Armenia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Tajikistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Armenia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Kyrgyzstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Armenia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Armenia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Kazakhstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Georgia", 
+            "start": 1993.0, 
+            "stop": 2020.0, 
+            "target": "Azerbaijan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Georgia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Turkmenistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Georgia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Tajikistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Georgia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Kyrgyzstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Georgia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Georgia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Kazakhstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Azerbaijan", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Turkmenistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Azerbaijan", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Tajikistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Azerbaijan", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Kyrgyzstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Azerbaijan", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Azerbaijan", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Kazakhstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Turkmenistan", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Tajikistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Turkmenistan", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Kyrgyzstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Turkmenistan", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Turkmenistan", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Kazakhstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Tajikistan", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Kyrgyzstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Tajikistan", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Tajikistan", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Kazakhstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Kyrgyzstan", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Kyrgyzstan", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Kazakhstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Uzbekistan", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Kazakhstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Belarus", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Armenia", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Georgia", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Azerbaijan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Tajikistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Kyrgyzstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Kazakhstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Belarus", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Armenia", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Belarus", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Georgia", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Belarus", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Azerbaijan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Belarus", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Tajikistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Belarus", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Kyrgyzstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Belarus", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Belarus", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Kazakhstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Armenia", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Georgia", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Armenia", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Azerbaijan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Armenia", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Tajikistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Armenia", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Kyrgyzstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Armenia", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Armenia", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Kazakhstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Georgia", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Azerbaijan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Georgia", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Tajikistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Georgia", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Kyrgyzstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Georgia", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Georgia", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Kazakhstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Azerbaijan", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Tajikistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Azerbaijan", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Kyrgyzstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Azerbaijan", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Azerbaijan", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Kazakhstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Tajikistan", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Kyrgyzstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Tajikistan", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Tajikistan", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Kazakhstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Kyrgyzstan", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Kyrgyzstan", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Kazakhstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Uzbekistan", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Kazakhstan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Poland", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Ukraine", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Poland", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Russia", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Kazakhstan", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Turkey", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Albania", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Turkey", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Kyrgyzstan", 
+            "value": "10.0"
+        }, 
+        {
+            "source": "Canada", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Russia", 
+            "value": "5.0"
+        }, 
+        {
+            "source": "Poland", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Belarus", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Poland", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Latvia", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Poland", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Estonia", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Bulgaria", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Russia", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Kyrgyzstan", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Moldova", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Ukraine", 
+            "value": "5.0"
+        }, 
+        {
+            "source": "Czech Republic", 
+            "start": 1992.0, 
+            "stop": 2020.0, 
+            "target": "Slovakia", 
+            "value": "5.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Mongolia", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Albania", 
+            "start": 1993.0, 
+            "stop": 2020.0, 
+            "target": "Bulgaria", 
+            "value": "5.0"
+        }, 
+        {
+            "source": "Poland", 
+            "start": 1993.0, 
+            "stop": 2020.0, 
+            "target": "Georgia", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1993.0, 
+            "stop": 2020.0, 
+            "target": "Tajikistan", 
+            "value": "10.0"
+        }, 
+        {
+            "source": "Slovakia", 
+            "start": 1993.0, 
+            "stop": 2020.0, 
+            "target": "Ukraine", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Slovakia", 
+            "start": 1993.0, 
+            "stop": 2020.0, 
+            "target": "Romania", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Bulgaria", 
+            "start": 1993.0, 
+            "stop": 2020.0, 
+            "target": "Belarus", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "France", 
+            "start": 1994.0, 
+            "stop": 2020.0, 
+            "target": "Georgia", 
+            "value": "1.0"
+        }, 
+        {
+            "source": "Lithuania", 
+            "start": 1994.0, 
+            "stop": 2020.0, 
+            "target": "Ukraine", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Azerbaijan", 
+            "start": 1994.0, 
+            "stop": 2020.0, 
+            "target": "Turkey", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Poland", 
+            "start": 1994.0, 
+            "stop": 2020.0, 
+            "target": "Lithuania", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Croatia", 
+            "start": 1994.0, 
+            "stop": 2020.0, 
+            "target": "Turkey", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Jordan", 
+            "start": 1994.0, 
+            "stop": 2020.0, 
+            "target": "Israel", 
+            "value": "5.0"
+        }, 
+        {
+            "source": "Poland", 
+            "start": 1994.0, 
+            "stop": 2020.0, 
+            "target": "Moldova", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Lithuania", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Belarus", 
+            "value": "5.0"
+        }, 
+        {
+            "source": "Moldova", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Lithuania", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Latvia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Ukraine", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Latvia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Croatia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Yugoslavia", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Croatia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Bosnia and Herzegovina", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Yugoslavia", 
+            "start": 1995.0, 
+            "stop": 2020.0, 
+            "target": "Bosnia and Herzegovina", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Barbados", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "Dominica", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Barbados", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "Grenada", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Barbados", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "St. Lucia", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Barbados", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "St. Vincent and the Grenadines", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Barbados", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "Antigua & Barbuda", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Barbados", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "St. Kitts and Nevis", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Dominica", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "Grenada", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Dominica", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "St. Lucia", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Dominica", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "St. Vincent and the Grenadines", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Dominica", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "Antigua & Barbuda", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Dominica", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "St. Kitts and Nevis", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Grenada", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "St. Lucia", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Grenada", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "St. Vincent and the Grenadines", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Grenada", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "Antigua & Barbuda", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Grenada", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "St. Kitts and Nevis", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "St. Lucia", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "St. Vincent and the Grenadines", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "St. Lucia", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "Antigua & Barbuda", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "St. Lucia", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "St. Kitts and Nevis", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "St. Vincent and the Grenadines", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "Antigua & Barbuda", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "St. Vincent and the Grenadines", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "St. Kitts and Nevis", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Antigua & Barbuda", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "St. Kitts and Nevis", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "Tajikistan", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "Kyrgyzstan", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 2001.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "Kazakhstan", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "China", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Tajikistan", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "Kyrgyzstan", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Tajikistan", 
+            "start": 2001.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Tajikistan", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "Kazakhstan", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Tajikistan", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "China", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Kyrgyzstan", 
+            "start": 2001.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Kyrgyzstan", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "Kazakhstan", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Kyrgyzstan", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "China", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Uzbekistan", 
+            "start": 2001.0, 
+            "stop": 2020.0, 
+            "target": "Kazakhstan", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Uzbekistan", 
+            "start": 2001.0, 
+            "stop": 2020.0, 
+            "target": "China", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Kazakhstan", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "China", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Ukraine", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "Armenia", 
+            "value": "5.0"
+        }, 
+        {
+            "source": "Poland", 
+            "start": 1996.0, 
+            "stop": 2020.0, 
+            "target": "Greece", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Slovakia", 
+            "start": 1997.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 1997.0, 
+            "stop": 2020.0, 
+            "target": "Belarus", 
+            "value": "5.0"
+        }, 
+        {
+            "source": "Central African Republic", 
+            "start": 1998.0, 
+            "stop": 2020.0, 
+            "target": "Congo", 
+            "value": "5.0"
+        }, 
+        {
+            "source": "Congo", 
+            "start": 1998.0, 
+            "stop": 2020.0, 
+            "target": "Democratic Republic of the Congo", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "North Korea", 
+            "value": "1.0"
+        }, 
+        {
+            "source": "Sao Tome and Principe", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Equatorial Guinea", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Sao Tome and Principe", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Cameroon", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Sao Tome and Principe", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Gabon", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Sao Tome and Principe", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Central African Republic", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Sao Tome and Principe", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Chad", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Sao Tome and Principe", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Congo", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Sao Tome and Principe", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Democratic Republic of the Congo", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Sao Tome and Principe", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Burundi", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Sao Tome and Principe", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Rwanda", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Sao Tome and Principe", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Angola", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Equatorial Guinea", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Cameroon", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Equatorial Guinea", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Gabon", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Equatorial Guinea", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Central African Republic", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Equatorial Guinea", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Chad", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Equatorial Guinea", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Congo", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Equatorial Guinea", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Democratic Republic of the Congo", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Equatorial Guinea", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Burundi", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Equatorial Guinea", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Rwanda", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Equatorial Guinea", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Angola", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Cameroon", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Gabon", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Cameroon", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Central African Republic", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Cameroon", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Chad", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Cameroon", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Congo", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Cameroon", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Democratic Republic of the Congo", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Cameroon", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Burundi", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Cameroon", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Rwanda", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Cameroon", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Angola", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Gabon", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Central African Republic", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Gabon", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Chad", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Gabon", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Congo", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Gabon", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Democratic Republic of the Congo", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Gabon", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Burundi", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Gabon", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Rwanda", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Gabon", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Angola", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Central African Republic", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Chad", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Central African Republic", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Congo", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Central African Republic", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Democratic Republic of the Congo", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Central African Republic", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Burundi", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Central African Republic", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Rwanda", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Central African Republic", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Angola", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Chad", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Congo", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Chad", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Democratic Republic of the Congo", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Chad", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Burundi", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Chad", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Rwanda", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Chad", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Angola", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Congo", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Democratic Republic of the Congo", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Congo", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Burundi", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Congo", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Rwanda", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Congo", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Angola", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Democratic Republic of the Congo", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Burundi", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Democratic Republic of the Congo", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Rwanda", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Democratic Republic of the Congo", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Angola", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Burundi", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Rwanda", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Burundi", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Angola", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Rwanda", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Angola", 
+            "value": "6.0"
+        }, 
+        {
+            "source": "Ethiopia", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Eritrea", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Saudi Arabia", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Kuwait", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Saudi Arabia", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Bahrain", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Saudi Arabia", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Qatar", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Saudi Arabia", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "United Arab Emirates", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Saudi Arabia", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Oman", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Kuwait", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Bahrain", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Kuwait", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Qatar", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Kuwait", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "United Arab Emirates", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Kuwait", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Oman", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Bahrain", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Qatar", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Bahrain", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "United Arab Emirates", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Bahrain", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Oman", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Qatar", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "United Arab Emirates", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Qatar", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Oman", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "United Arab Emirates", 
+            "start": 2000.0, 
+            "stop": 2020.0, 
+            "target": "Oman", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 2002.0, 
+            "stop": 2020.0, 
+            "target": "Turkmenistan", 
+            "value": "3.0"
+        }, 
+        {
+            "source": "Iran", 
+            "start": 2002.0, 
+            "stop": 2020.0, 
+            "target": "Afghanistan", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Iran", 
+            "start": 2002.0, 
+            "stop": 2020.0, 
+            "target": "Turkmenistan", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Iran", 
+            "start": 2002.0, 
+            "stop": 2020.0, 
+            "target": "Tajikistan", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Iran", 
+            "start": 2002.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Iran", 
+            "start": 2002.0, 
+            "stop": 2020.0, 
+            "target": "China", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Iran", 
+            "start": 2002.0, 
+            "stop": 2020.0, 
+            "target": "Pakistan", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Afghanistan", 
+            "start": 2002.0, 
+            "stop": 2020.0, 
+            "target": "Turkmenistan", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Afghanistan", 
+            "start": 2002.0, 
+            "stop": 2020.0, 
+            "target": "Tajikistan", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Afghanistan", 
+            "start": 2002.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Afghanistan", 
+            "start": 2002.0, 
+            "stop": 2020.0, 
+            "target": "China", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Afghanistan", 
+            "start": 2002.0, 
+            "stop": 2020.0, 
+            "target": "Pakistan", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Turkmenistan", 
+            "start": 2002.0, 
+            "stop": 2020.0, 
+            "target": "Tajikistan", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Turkmenistan", 
+            "start": 2002.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Turkmenistan", 
+            "start": 2002.0, 
+            "stop": 2020.0, 
+            "target": "China", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Turkmenistan", 
+            "start": 2002.0, 
+            "stop": 2020.0, 
+            "target": "Pakistan", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Tajikistan", 
+            "start": 2002.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Tajikistan", 
+            "start": 2002.0, 
+            "stop": 2020.0, 
+            "target": "China", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Tajikistan", 
+            "start": 2002.0, 
+            "stop": 2020.0, 
+            "target": "Pakistan", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Uzbekistan", 
+            "start": 2002.0, 
+            "stop": 2020.0, 
+            "target": "China", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Uzbekistan", 
+            "start": 2002.0, 
+            "stop": 2020.0, 
+            "target": "Pakistan", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "China", 
+            "start": 2002.0, 
+            "stop": 2020.0, 
+            "target": "Pakistan", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Azerbaijan", 
+            "start": 2005.0, 
+            "stop": 2020.0, 
+            "target": "Iran", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 2005.0, 
+            "stop": 2020.0, 
+            "target": "Uzbekistan", 
+            "value": "5.0"
+        }, 
+        {
+            "source": "Iran", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Syria", 
+            "value": "1.0"
+        }, 
+        {
+            "source": "Central African Republic", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Congo", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Central African Republic", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Democratic Republic of the Congo", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Central African Republic", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Uganda", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Central African Republic", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Kenya", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Central African Republic", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Tanzania", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Central African Republic", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Burundi", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Central African Republic", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Rwanda", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Central African Republic", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Angola", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Central African Republic", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Zambia", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Central African Republic", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Sudan", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Congo", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Democratic Republic of the Congo", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Congo", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Uganda", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Congo", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Kenya", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Congo", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Tanzania", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Congo", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Burundi", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Congo", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Rwanda", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Congo", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Angola", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Congo", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Zambia", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Congo", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Sudan", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Democratic Republic of the Congo", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Uganda", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Democratic Republic of the Congo", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Kenya", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Democratic Republic of the Congo", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Tanzania", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Democratic Republic of the Congo", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Burundi", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Democratic Republic of the Congo", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Rwanda", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Democratic Republic of the Congo", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Angola", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Democratic Republic of the Congo", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Zambia", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Democratic Republic of the Congo", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Sudan", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Uganda", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Kenya", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Uganda", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Tanzania", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Uganda", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Burundi", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Uganda", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Rwanda", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Uganda", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Angola", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Uganda", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Zambia", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Uganda", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Sudan", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Kenya", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Tanzania", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Kenya", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Burundi", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Kenya", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Rwanda", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Kenya", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Angola", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Kenya", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Zambia", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Kenya", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Sudan", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Tanzania", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Burundi", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Tanzania", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Rwanda", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Tanzania", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Angola", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Tanzania", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Zambia", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Tanzania", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Sudan", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Burundi", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Rwanda", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Burundi", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Angola", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Burundi", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Zambia", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Burundi", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Sudan", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Rwanda", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Angola", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Rwanda", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Zambia", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Rwanda", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Sudan", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Angola", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Zambia", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Angola", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Sudan", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Zambia", 
+            "start": 2006.0, 
+            "stop": 2020.0, 
+            "target": "Sudan", 
+            "value": "7.0"
+        }, 
+        {
+            "source": "Denmark", 
+            "start": 2007.0, 
+            "stop": 2020.0, 
+            "target": "Iceland", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Chad", 
+            "start": 2008.0, 
+            "stop": 2020.0, 
+            "target": "Sudan", 
+            "value": "2.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 2009.0, 
+            "stop": 2020.0, 
+            "target": "Belarus", 
+            "value": "4.0"
+        }, 
+        {
+            "source": "Russia", 
+            "start": 2010.0, 
+            "stop": 2020.0, 
+            "target": "Armenia", 
+            "value": "5.0"
+        }
+    ], 
+    "nodes": [
+        {
+            "group": "po", 
+            "id": "Mauritania"
+        }, 
+        {
+            "group": "Mauritania", 
+            "id": "Yemen"
+        }, 
+        {
+            "group": "po", 
+            "id": "Somalia"
+        }, 
+        {
+            "group": "po", 
+            "id": "Djibouti"
+        }, 
+        {
+            "group": "po", 
+            "id": "Morocco"
+        }, 
+        {
+            "group": "po", 
+            "id": "Algeria"
+        }, 
+        {
+            "group": "po", 
+            "id": "Tunisia"
+        }, 
+        {
+            "group": "po", 
+            "id": "Libya"
+        }, 
+        {
+            "group": "po", 
+            "id": "Sudan"
+        }, 
+        {
+            "group": "po", 
+            "id": "Iraq"
+        }, 
+        {
+            "group": "po", 
+            "id": "Egypt"
+        }, 
+        {
+            "group": "po", 
+            "id": "Syria"
+        }, 
+        {
+            "group": "po", 
+            "id": "Lebanon"
+        }, 
+        {
+            "group": "po", 
+            "id": "Jordan"
+        }, 
+        {
+            "group": "po", 
+            "id": "Saudi Arabia"
+        }, 
+        {
+            "group": "Yemen", 
+            "id": "Kuwait"
+        }, 
+        {
+            "group": "Yemen", 
+            "id": "Bahrain"
+        }, 
+        {
+            "group": "Yemen", 
+            "id": "Qatar"
+        }, 
+        {
+            "group": "Yemen", 
+            "id": "United Arab Emirates"
+        }, 
+        {
+            "group": "Yemen", 
+            "id": "Oman"
+        }, 
+        {
+            "group": "po", 
+            "id": "United States of America"
+        }, 
+        {
+            "group": "United States of America", 
+            "id": "Belize"
+        }, 
+        {
+            "group": "United States of America", 
+            "id": "Guyana"
+        }, 
+        {
+            "group": "po", 
+            "id": "Canada"
+        }, 
+        {
+            "group": "po", 
+            "id": "Bahamas"
+        }, 
+        {
+            "group": "po", 
+            "id": "Haiti"
+        }, 
+        {
+            "group": "po", 
+            "id": "Dominican Republic"
+        }, 
+        {
+            "group": "po", 
+            "id": "Jamaica"
+        }, 
+        {
+            "group": "po", 
+            "id": "Trinidad and Tobago"
+        }, 
+        {
+            "group": "po", 
+            "id": "Barbados"
+        }, 
+        {
+            "group": "po", 
+            "id": "Dominica"
+        }, 
+        {
+            "group": "po", 
+            "id": "Grenada"
+        }, 
+        {
+            "group": "po", 
+            "id": "St. Lucia"
+        }, 
+        {
+            "group": "po", 
+            "id": "St. Vincent and the Grenadines"
+        }, 
+        {
+            "group": "po", 
+            "id": "Antigua & Barbuda"
+        }, 
+        {
+            "group": "po", 
+            "id": "St. Kitts and Nevis"
+        }, 
+        {
+            "group": "po", 
+            "id": "Mexico"
+        }, 
+        {
+            "group": "Belize", 
+            "id": "Guatemala"
+        }, 
+        {
+            "group": "Belize", 
+            "id": "Honduras"
+        }, 
+        {
+            "group": "Belize", 
+            "id": "El Salvador"
+        }, 
+        {
+            "group": "Belize", 
+            "id": "Nicaragua"
+        }, 
+        {
+            "group": "Belize", 
+            "id": "Costa Rica"
+        }, 
+        {
+            "group": "Belize", 
+            "id": "Panama"
+        }, 
+        {
+            "group": "Belize", 
+            "id": "Colombia"
+        }, 
+        {
+            "group": "Belize", 
+            "id": "Venezuela"
+        }, 
+        {
+            "group": "Belize", 
+            "id": "Suriname"
+        }, 
+        {
+            "group": "Belize", 
+            "id": "Ecuador"
+        }, 
+        {
+            "group": "Belize", 
+            "id": "Peru"
+        }, 
+        {
+            "group": "Belize", 
+            "id": "Brazil"
+        }, 
+        {
+            "group": "Belize", 
+            "id": "Bolivia"
+        }, 
+        {
+            "group": "Belize", 
+            "id": "Paraguay"
+        }, 
+        {
+            "group": "Belize", 
+            "id": "Chile"
+        }, 
+        {
+            "group": "Belize", 
+            "id": "Argentina"
+        }, 
+        {
+            "group": "Belize", 
+            "id": "Uruguay"
+        }, 
+        {
+            "group": "po", 
+            "id": "United Kingdom"
+        }, 
+        {
+            "group": "United Kingdom", 
+            "id": "Greece"
+        }, 
+        {
+            "group": "po", 
+            "id": "Netherlands"
+        }, 
+        {
+            "group": "po", 
+            "id": "Belgium"
+        }, 
+        {
+            "group": "po", 
+            "id": "Luxembourg"
+        }, 
+        {
+            "group": "po", 
+            "id": "France"
+        }, 
+        {
+            "group": "po", 
+            "id": "Spain"
+        }, 
+        {
+            "group": "po", 
+            "id": "Portugal"
+        }, 
+        {
+            "group": "po", 
+            "id": "German Federal Republic"
+        }, 
+        {
+            "group": "po", 
+            "id": "Italy"
+        }, 
+        {
+            "group": "United States of America", 
+            "id": "Germany"
+        }, 
+        {
+            "group": "United States of America", 
+            "id": "Poland"
+        }, 
+        {
+            "group": "United States of America", 
+            "id": "Hungary"
+        }, 
+        {
+            "group": "United States of America", 
+            "id": "Czech Republic"
+        }, 
+        {
+            "group": "Germany", 
+            "id": "Norway"
+        }, 
+        {
+            "group": "Germany", 
+            "id": "Denmark"
+        }, 
+        {
+            "group": "Germany", 
+            "id": "Iceland"
+        }, 
+        {
+            "group": "Germany", 
+            "id": "Turkey"
+        }, 
+        {
+            "group": "po", 
+            "id": "Guinea"
+        }, 
+        {
+            "group": "Guinea", 
+            "id": "Liberia"
+        }, 
+        {
+            "group": "Germany", 
+            "id": "Russia"
+        }, 
+        {
+            "group": "po", 
+            "id": "Romania"
+        }, 
+        {
+            "group": "Greece", 
+            "id": "Bulgaria"
+        }, 
+        {
+            "group": "Hungary", 
+            "id": "Ukraine"
+        }, 
+        {
+            "group": "po", 
+            "id": "North Korea"
+        }, 
+        {
+            "group": "North Korea", 
+            "id": "South Korea"
+        }, 
+        {
+            "group": "Russia", 
+            "id": "Finland"
+        }, 
+        {
+            "group": "po", 
+            "id": "Moldova"
+        }, 
+        {
+            "group": "Moldova", 
+            "id": "Belarus"
+        }, 
+        {
+            "group": "Moldova", 
+            "id": "Armenia"
+        }, 
+        {
+            "group": "Moldova", 
+            "id": "Georgia"
+        }, 
+        {
+            "group": "Moldova", 
+            "id": "Azerbaijan"
+        }, 
+        {
+            "group": "Moldova", 
+            "id": "Turkmenistan"
+        }, 
+        {
+            "group": "Moldova", 
+            "id": "Tajikistan"
+        }, 
+        {
+            "group": "Moldova", 
+            "id": "Kyrgyzstan"
+        }, 
+        {
+            "group": "Moldova", 
+            "id": "Uzbekistan"
+        }, 
+        {
+            "group": "Moldova", 
+            "id": "Kazakhstan"
+        }, 
+        {
+            "group": "po", 
+            "id": "Albania"
+        }, 
+        {
+            "group": "Poland", 
+            "id": "Latvia"
+        }, 
+        {
+            "group": "Poland", 
+            "id": "Estonia"
+        }, 
+        {
+            "group": "Czech Republic", 
+            "id": "Slovakia"
+        }, 
+        {
+            "group": "Russia", 
+            "id": "Mongolia"
+        }, 
+        {
+            "group": "po", 
+            "id": "Lithuania"
+        }, 
+        {
+            "group": "po", 
+            "id": "Croatia"
+        }, 
+        {
+            "group": "Jordan", 
+            "id": "Israel"
+        }, 
+        {
+            "group": "Croatia", 
+            "id": "Yugoslavia"
+        }, 
+        {
+            "group": "Croatia", 
+            "id": "Bosnia and Herzegovina"
+        }, 
+        {
+            "group": "Russia", 
+            "id": "China"
+        }, 
+        {
+            "group": "po", 
+            "id": "Central African Republic"
+        }, 
+        {
+            "group": "Central African Republic", 
+            "id": "Congo"
+        }, 
+        {
+            "group": "Congo", 
+            "id": "Democratic Republic of the Congo"
+        }, 
+        {
+            "group": "po", 
+            "id": "Sao Tome and Principe"
+        }, 
+        {
+            "group": "Sao Tome and Principe", 
+            "id": "Equatorial Guinea"
+        }, 
+        {
+            "group": "Sao Tome and Principe", 
+            "id": "Cameroon"
+        }, 
+        {
+            "group": "Sao Tome and Principe", 
+            "id": "Gabon"
+        }, 
+        {
+            "group": "Sao Tome and Principe", 
+            "id": "Chad"
+        }, 
+        {
+            "group": "Sao Tome and Principe", 
+            "id": "Burundi"
+        }, 
+        {
+            "group": "Sao Tome and Principe", 
+            "id": "Rwanda"
+        }, 
+        {
+            "group": "Sao Tome and Principe", 
+            "id": "Angola"
+        }, 
+        {
+            "group": "po", 
+            "id": "Ethiopia"
+        }, 
+        {
+            "group": "Ethiopia", 
+            "id": "Eritrea"
+        }, 
+        {
+            "group": "po", 
+            "id": "Iran"
+        }, 
+        {
+            "group": "Iran", 
+            "id": "Afghanistan"
+        }, 
+        {
+            "group": "Iran", 
+            "id": "Pakistan"
+        }, 
+        {
+            "group": "Central African Republic", 
+            "id": "Uganda"
+        }, 
+        {
+            "group": "Central African Republic", 
+            "id": "Kenya"
+        }, 
+        {
+            "group": "Central African Republic", 
+            "id": "Tanzania"
+        }, 
+        {
+            "group": "Central African Republic", 
+            "id": "Zambia"
+        }
+    ]
+}
