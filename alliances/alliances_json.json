@@ -11172,11 +11172,11 @@
             "id": "Ecuador"
         }, 
         {
-            "group": "Ecuador", 
+            "group": "South America", 
             "id": "Bolivia"
         }, 
         {
-            "group": "Bolivia", 
+            "group": "South America", 
             "id": "Paraguay"
         }, 
         {
@@ -11184,7 +11184,7 @@
             "id": "Colombia"
         }, 
         {
-            "group": "Colombia", 
+            "group": "South America", 
             "id": "Venezuela"
         }, 
         {
@@ -11192,79 +11192,79 @@
             "id": "Mauritania"
         }, 
         {
-            "group": "Mauritania", 
+            "group": "Africa", 
             "id": "Somalia"
         }, 
         {
-            "group": "Mauritania", 
+            "group": "Africa", 
             "id": "Djibouti"
         }, 
         {
-            "group": "Mauritania", 
+            "group": "Africa", 
             "id": "Morocco"
         }, 
         {
-            "group": "Mauritania", 
+            "group": "Africa", 
             "id": "Algeria"
         }, 
         {
-            "group": "Mauritania", 
+            "group": "Africa", 
             "id": "Tunisia"
         }, 
         {
-            "group": "Mauritania", 
+            "group": "Africa", 
             "id": "Libya"
         }, 
         {
-            "group": "Mauritania", 
+            "group": "Africa", 
             "id": "Sudan"
         }, 
         {
-            "group": "Mauritania", 
+            "group": "Asia", 
             "id": "Iraq"
         }, 
         {
-            "group": "Mauritania", 
+            "group": "Africa", 
             "id": "Egypt"
         }, 
         {
-            "group": "Mauritania", 
+            "group": "Asia", 
             "id": "Syria"
         }, 
         {
-            "group": "Mauritania", 
+            "group": "Asia", 
             "id": "Lebanon"
         }, 
         {
-            "group": "Mauritania", 
+            "group": "Asia", 
             "id": "Jordan"
         }, 
         {
-            "group": "Mauritania", 
+            "group": "Asia", 
             "id": "Saudi Arabia"
         }, 
         {
-            "group": "Mauritania", 
+            "group": "Asia", 
             "id": "Yemen"
         }, 
         {
-            "group": "Mauritania", 
+            "group": "Asia", 
             "id": "Kuwait"
         }, 
         {
-            "group": "Mauritania", 
+            "group": "Asia", 
             "id": "Bahrain"
         }, 
         {
-            "group": "Mauritania", 
+            "group": "Asia", 
             "id": "Qatar"
         }, 
         {
-            "group": "Mauritania", 
+            "group": "Asia", 
             "id": "United Arab Emirates"
         }, 
         {
-            "group": "Mauritania", 
+            "group": "Asia", 
             "id": "Oman"
         }, 
         {
@@ -11272,115 +11272,115 @@
             "id": "United States of America"
         }, 
         {
-            "group": "United States of America", 
+            "group": "North America", 
             "id": "Canada"
         }, 
         {
-            "group": "United States of America", 
+            "group": "North America", 
             "id": "Bahamas"
         }, 
         {
-            "group": "United States of America", 
+            "group": "North America", 
             "id": "Haiti"
         }, 
         {
-            "group": "United States of America", 
+            "group": "North America", 
             "id": "Dominican Republic"
         }, 
         {
-            "group": "United States of America", 
+            "group": "North America", 
             "id": "Jamaica"
         }, 
         {
-            "group": "United States of America", 
+            "group": "North America", 
             "id": "Trinidad and Tobago"
         }, 
         {
-            "group": "United States of America", 
+            "group": "North America", 
             "id": "Barbados"
         }, 
         {
-            "group": "United States of America", 
+            "group": "North America", 
             "id": "Dominica"
         }, 
         {
-            "group": "United States of America", 
+            "group": "North America", 
             "id": "Grenada"
         }, 
         {
-            "group": "United States of America", 
+            "group": "North America", 
             "id": "St. Lucia"
         }, 
         {
-            "group": "United States of America", 
+            "group": "North America", 
             "id": "St. Vincent and the Grenadines"
         }, 
         {
-            "group": "United States of America", 
+            "group": "North America", 
             "id": "Antigua & Barbuda"
         }, 
         {
-            "group": "United States of America", 
+            "group": "North America", 
             "id": "St. Kitts and Nevis"
         }, 
         {
-            "group": "United States of America", 
+            "group": "North America", 
             "id": "Mexico"
         }, 
         {
-            "group": "United States of America", 
+            "group": "North America", 
             "id": "Belize"
         }, 
         {
-            "group": "United States of America", 
+            "group": "North America", 
             "id": "Guatemala"
         }, 
         {
-            "group": "United States of America", 
+            "group": "North America", 
             "id": "Honduras"
         }, 
         {
-            "group": "United States of America", 
+            "group": "North America", 
             "id": "El Salvador"
         }, 
         {
-            "group": "United States of America", 
+            "group": "North America", 
             "id": "Nicaragua"
         }, 
         {
-            "group": "United States of America", 
+            "group": "North America", 
             "id": "Costa Rica"
         }, 
         {
-            "group": "United States of America", 
+            "group": "North America", 
             "id": "Panama"
         }, 
         {
-            "group": "United States of America", 
+            "group": "South America", 
             "id": "Guyana"
         }, 
         {
-            "group": "United States of America", 
+            "group": "South America", 
             "id": "Suriname"
         }, 
         {
-            "group": "United States of America", 
+            "group": "South America", 
             "id": "Peru"
         }, 
         {
-            "group": "United States of America", 
+            "group": "South America", 
             "id": "Brazil"
         }, 
         {
-            "group": "United States of America", 
+            "group": "South America", 
             "id": "Chile"
         }, 
         {
-            "group": "United States of America", 
+            "group": "South America", 
             "id": "Argentina"
         }, 
         {
-            "group": "United States of America", 
+            "group": "South America", 
             "id": "Uruguay"
         }, 
         {
@@ -11388,99 +11388,99 @@
             "id": "United Kingdom"
         }, 
         {
-            "group": "United Kingdom", 
+            "group": "Europe", 
             "id": "Netherlands"
         }, 
         {
-            "group": "United Kingdom", 
+            "group": "Europe", 
             "id": "Belgium"
         }, 
         {
-            "group": "United Kingdom", 
+            "group": "Europe", 
             "id": "Luxembourg"
         }, 
         {
-            "group": "United Kingdom", 
+            "group": "Europe", 
             "id": "France"
         }, 
         {
-            "group": "United Kingdom", 
+            "group": "Europe", 
             "id": "Spain"
         }, 
         {
-            "group": "United Kingdom", 
+            "group": "Europe", 
             "id": "Portugal"
         }, 
         {
-            "group": "United Kingdom", 
+            "group": "Europe", 
             "id": "German Federal Republic"
         }, 
         {
-            "group": "United Kingdom", 
+            "group": "Europe", 
             "id": "Italy"
         }, 
         {
-            "group": "United Kingdom", 
+            "group": "Europe", 
             "id": "Greece"
         }, 
         {
-            "group": "United States of America", 
+            "group": "Europe", 
             "id": "Germany"
         }, 
         {
-            "group": "United States of America", 
+            "group": "Europe", 
             "id": "Poland"
         }, 
         {
-            "group": "United States of America", 
+            "group": "Europe", 
             "id": "Hungary"
         }, 
         {
-            "group": "United States of America", 
+            "group": "Europe", 
             "id": "Czech Republic"
         }, 
         {
-            "group": "United States of America", 
+            "group": "Europe", 
             "id": "Norway"
         }, 
         {
-            "group": "United States of America", 
+            "group": "Europe", 
             "id": "Denmark"
         }, 
         {
-            "group": "United States of America", 
+            "group": "Europe", 
             "id": "Iceland"
         }, 
         {
-            "group": "United States of America", 
+            "group": "Asia", 
             "id": "Turkey"
         }, 
         {
-            "group": "United States of America", 
+            "group": "Asia", 
             "id": "Philippines"
         }, 
         {
-            "group": "United States of America", 
+            "group": "Oceania", 
             "id": "Australia"
         }, 
         {
-            "group": "United States of America", 
+            "group": "Asia", 
             "id": "Japan"
         }, 
         {
-            "group": "United States of America", 
+            "group": "Asia", 
             "id": "South Korea"
         }, 
         {
-            "group": "United States of America", 
+            "group": "Asia", 
             "id": "Pakistan"
         }, 
         {
-            "group": "United States of America", 
+            "group": "Africa", 
             "id": "Liberia"
         }, 
         {
-            "group": "France", 
+            "group": "Africa", 
             "id": "Gabon"
         }, 
         {
@@ -11488,7 +11488,7 @@
             "id": "China"
         }, 
         {
-            "group": "China", 
+            "group": "Asia", 
             "id": "North Korea"
         }, 
         {
@@ -11496,7 +11496,7 @@
             "id": "Kenya"
         }, 
         {
-            "group": "Kenya", 
+            "group": "Africa", 
             "id": "Ethiopia"
         }, 
         {
@@ -11512,51 +11512,51 @@
             "id": "Cape Verde"
         }, 
         {
-            "group": "Cape Verde", 
+            "group": "Africa", 
             "id": "Guinea-Bissau"
         }, 
         {
-            "group": "Cape Verde", 
+            "group": "Africa", 
             "id": "Gambia"
         }, 
         {
-            "group": "Cape Verde", 
+            "group": "Africa", 
             "id": "Mali"
         }, 
         {
-            "group": "Cape Verde", 
+            "group": "Africa", 
             "id": "Senegal"
         }, 
         {
-            "group": "Cape Verde", 
+            "group": "Africa", 
             "id": "Benin"
         }, 
         {
-            "group": "Cape Verde", 
+            "group": "Africa", 
             "id": "Niger"
         }, 
         {
-            "group": "Cape Verde", 
+            "group": "Africa", 
             "id": "Ivory Coast"
         }, 
         {
-            "group": "Cape Verde", 
+            "group": "Africa", 
             "id": "Burkina Faso"
         }, 
         {
-            "group": "Cape Verde", 
+            "group": "Africa", 
             "id": "Sierra Leone"
         }, 
         {
-            "group": "Cape Verde", 
+            "group": "Africa", 
             "id": "Ghana"
         }, 
         {
-            "group": "Cape Verde", 
+            "group": "Africa", 
             "id": "Togo"
         }, 
         {
-            "group": "Cape Verde", 
+            "group": "Africa", 
             "id": "Nigeria"
         }, 
         {
@@ -11564,11 +11564,11 @@
             "id": "South Africa"
         }, 
         {
-            "group": "South Africa", 
+            "group": "Africa", 
             "id": "Swaziland"
         }, 
         {
-            "group": "Germany", 
+            "group": "Europe", 
             "id": "Russia"
         }, 
         {
@@ -11576,15 +11576,15 @@
             "id": "Romania"
         }, 
         {
-            "group": "Greece", 
+            "group": "Europe", 
             "id": "Bulgaria"
         }, 
         {
-            "group": "Hungary", 
+            "group": "Europe", 
             "id": "Ukraine"
         }, 
         {
-            "group": "Russia", 
+            "group": "Europe", 
             "id": "Finland"
         }, 
         {
@@ -11592,39 +11592,39 @@
             "id": "Moldova"
         }, 
         {
-            "group": "Moldova", 
+            "group": "Europe", 
             "id": "Belarus"
         }, 
         {
-            "group": "Moldova", 
+            "group": "Asia", 
             "id": "Armenia"
         }, 
         {
-            "group": "Moldova", 
+            "group": "Asia", 
             "id": "Georgia"
         }, 
         {
-            "group": "Moldova", 
+            "group": "Asia", 
             "id": "Azerbaijan"
         }, 
         {
-            "group": "Moldova", 
+            "group": "Asia", 
             "id": "Turkmenistan"
         }, 
         {
-            "group": "Moldova", 
+            "group": "Asia", 
             "id": "Tajikistan"
         }, 
         {
-            "group": "Moldova", 
+            "group": "Asia", 
             "id": "Kyrgyzstan"
         }, 
         {
-            "group": "Moldova", 
+            "group": "Asia", 
             "id": "Uzbekistan"
         }, 
         {
-            "group": "Moldova", 
+            "group": "Asia", 
             "id": "Kazakhstan"
         }, 
         {
@@ -11632,19 +11632,19 @@
             "id": "Albania"
         }, 
         {
-            "group": "Poland", 
+            "group": "Europe", 
             "id": "Latvia"
         }, 
         {
-            "group": "Poland", 
+            "group": "Europe", 
             "id": "Estonia"
         }, 
         {
-            "group": "Czech Republic", 
+            "group": "Europe", 
             "id": "Slovakia"
         }, 
         {
-            "group": "Russia", 
+            "group": "Asia", 
             "id": "Mongolia"
         }, 
         {
@@ -11656,15 +11656,15 @@
             "id": "Croatia"
         }, 
         {
-            "group": "Jordan", 
+            "group": "Asia", 
             "id": "Israel"
         }, 
         {
-            "group": "Croatia", 
+            "group": "Europe", 
             "id": "Yugoslavia"
         }, 
         {
-            "group": "Croatia", 
+            "group": "Europe", 
             "id": "Bosnia and Herzegovina"
         }, 
         {
@@ -11672,11 +11672,11 @@
             "id": "Central African Republic"
         }, 
         {
-            "group": "Central African Republic", 
+            "group": "Africa", 
             "id": "Congo"
         }, 
         {
-            "group": "Congo", 
+            "group": "Africa", 
             "id": "Democratic Republic of the Congo"
         }, 
         {
@@ -11684,31 +11684,31 @@
             "id": "Sao Tome and Principe"
         }, 
         {
-            "group": "Sao Tome and Principe", 
+            "group": "Africa", 
             "id": "Equatorial Guinea"
         }, 
         {
-            "group": "Sao Tome and Principe", 
+            "group": "Africa", 
             "id": "Cameroon"
         }, 
         {
-            "group": "Sao Tome and Principe", 
+            "group": "Africa", 
             "id": "Chad"
         }, 
         {
-            "group": "Sao Tome and Principe", 
+            "group": "Africa", 
             "id": "Burundi"
         }, 
         {
-            "group": "Sao Tome and Principe", 
+            "group": "Africa", 
             "id": "Rwanda"
         }, 
         {
-            "group": "Sao Tome and Principe", 
+            "group": "Africa", 
             "id": "Angola"
         }, 
         {
-            "group": "Ethiopia", 
+            "group": "Africa", 
             "id": "Eritrea"
         }, 
         {
@@ -11716,19 +11716,19 @@
             "id": "Iran"
         }, 
         {
-            "group": "Iran", 
+            "group": "Asia", 
             "id": "Afghanistan"
         }, 
         {
-            "group": "Central African Republic", 
+            "group": "Africa", 
             "id": "Uganda"
         }, 
         {
-            "group": "Central African Republic", 
+            "group": "Africa", 
             "id": "Tanzania"
         }, 
         {
-            "group": "Central African Republic", 
+            "group": "Africa", 
             "id": "Zambia"
         }
     ]

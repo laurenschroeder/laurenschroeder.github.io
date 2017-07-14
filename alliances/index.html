@@ -14,28 +14,40 @@ button {
 
 #orange {
   top: 1em;
-  left: 8em;
+  left: 10em;
 }
 
 #green {
   top: 1em;
-  left: 16em;
+  left: 25em;
+}
+
+#yellow {
+  top: 1em;
+  left: 40em;
+}
+
+#red {
+  top: 1em;
+  left: 55em;
 }
 
 .node {
   stroke: white;
-  stroke-width: 2px;
+  stroke-width: 1px;
 }
 
 .link {
   stroke: gray;
-  stroke-width: 4px;
+  stroke-width: 2px;
 }
 
 </style>
-<button type="button" class="filter-btn" id="blue" value="Africa">Filter Africa</button>
-<button type="button" class="filter-btn" id="orange" value="Asia">Filter Asia</button>
-<button type="button" class="filter-btn" id="green" value="Europe">Filter Europe</button>
+<button type="button" class="filter-btn" id="blue" value="Africa">Add/Remove Africa</button>
+<button type="button" class="filter-btn" id="orange" value="Asia">Add/Remove Asia</button>
+<button type="button" class="filter-btn" id="green" value="Europe">Add/Remove Europe</button>
+<button type="button" class="filter-btn" id="yellow" value="South America">Add/Remove South America</button>
+<button type="button" class="filter-btn" id="red" value="North America">Add/Remove North America</button>
 <svg width="960" height="500"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script
@@ -51,7 +63,7 @@ var graph, store;
 var svg = d3.select("svg"),
     width = +svg.attr("width"),
     height = +svg.attr("height"),
-    radius = 10;
+    radius = 7
 
 //  d3 color scales
 var color = d3.scaleOrdinal(d3.schemeCategory10);
@@ -131,8 +143,8 @@ function update() {
   newLink = link.enter().append("line")
     .attr("class", "link");
 
-  newLink.append("title")
-      .text(function(d) { return "source: " + d.source + "\n" + "target: " + d.target; });
+  //newLink.append("title")
+   //   .text(function(d) { return "source: " + d.source + "\n" + "target: " + d.target; });
   //  ENTER + UPDATE
   link = link.merge(newLink);
 
@@ -196,19 +208,7 @@ function filter() {
   });
 
   //  add and remove links from data based on availability of nodes
-  store.links1.forEach(function(l) {
-    if (!(typeFilterList.includes(l.sourceGroup) || typeFilterList.includes(l.targetGroup)) && l.filtered) {
-      l.filtered = false;
-      graph.links1.push($.extend(true, {}, l));
-    } else if ((typeFilterList.includes(l.sourceGroup) || typeFilterList.includes(l.targetGroup)) && !l.filtered) {
-      l.filtered = true;
-      graph.links1.forEach(function(d, i) {
-        if (l.id === d.id) {
-          graph.links1.splice(i, 1);
-        }
-      });
-    }
-  });     
+   
 }
 
 </script>
