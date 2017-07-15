@@ -7,7 +7,7 @@ button {
   position: absolute;
 }
 
-#blue {
+#Africa {
   top: 1em;
   left: 1em;
 }
@@ -43,7 +43,7 @@ button {
 }
 
 </style>
-<button type="button" class="filter-btn" id="blue" value="Africa">Add/Remove Africa</button>
+<button type="button" class="filter-btn" id="Africa" value="Africa">Add/Remove Africa</button>
 <button type="button" class="filter-btn" id="orange" value="Asia">Add/Remove Asia</button>
 <button type="button" class="filter-btn" id="green" value="Europe">Add/Remove Europe</button>
 <button type="button" class="filter-btn" id="yellow" value="South America">Add/Remove South America</button>
@@ -105,6 +105,11 @@ d3.json("alliances_json.json", function(err, g) {
   g.links1.forEach(function(l) {
     l.sourceGroup = nodeByID[l.source].group.toString();
     l.targetGroup = nodeByID[l.target].group.toString();
+  });
+
+  g.links1.forEach(function(l) {
+    l.sourcey = l.source;
+    l.targety = l.target;
   });
 
   graph = g;
@@ -208,7 +213,22 @@ function filter() {
   });
 
   //  add and remove links from data based on availability of nodes
-   
+  store.links1.forEach(function(l) {
+    if (!(typeFilterList.includes(l.sourceGroup) || typeFilterList.includes(l.targetGroup)) && l.filtered) {
+      l.filtered = false;
+      graph.links1.push($.extend(true, {}, l));
+
+
+      //rebuild links in either the source or the target
+    } else if ((typeFilterList.includes(l.sourceGroup) || typeFilterList.includes(l.targetGroup)) && !l.filtered) {
+      l.filtered = true;
+      graph.links1.forEach(function(d, i) {
+        if (l.id === d.id) {
+          graph.links1.splice(i, 1);
+        }
+      });
+    }
+  });     
 }
 
 </script>
