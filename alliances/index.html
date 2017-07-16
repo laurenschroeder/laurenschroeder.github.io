@@ -148,8 +148,8 @@ function update() {
   newLink = link.enter().append("line")
     .attr("class", "link");
 
-  //newLink.append("title")
-   //   .text(function(d) { return "source: " + d.source + "\n" + "target: " + d.target; });
+  newLink.append("title")
+      .text(function(d) { return "Start: " + d.start + "\n" + "value: " + d.value; });
   //  ENTER + UPDATE
   link = link.merge(newLink);
 
