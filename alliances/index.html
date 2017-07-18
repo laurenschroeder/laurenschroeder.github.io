@@ -4,32 +4,72 @@
 <style>
 /*  style definitions */
 button {
-  position: absolute;
+  /*position: absolute;*/
+  background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 13px 17px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 10px;
+
 }
 
+h1 {
+  color: gray;
+  font-family: arial;
+  max-width: 1000px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 28px;
+}
+
+h4 {
+  color: gray;
+  font-family: arial;
+  max-width: 1000px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
 #Africa {
   top: 1em;
   left: 1em;
+  background-color:#ffd92f;
 }
 
-#orange {
+#Asia {
   top: 1em;
   left: 10em;
+  background-color: #fc8d62;
 }
 
-#green {
+#Europe {
   top: 1em;
-  left: 25em;
+  left: 20em;
+  background-color: #8da0cb;
 }
 
-#yellow {
+#SA {
+  top: 1em;
+  left: 30em;
+  background-color: #66c2a5;
+}
+
+#NA {
   top: 1em;
   left: 40em;
+  background-color: #e78ac3;
 }
 
-#red {
+#Oceania {
   top: 1em;
-  left: 55em;
+  left: 50em;
+  background-color: #a6d854;
 }
 
 .node {
@@ -40,14 +80,15 @@ button {
 .link {
   stroke: gray;
   stroke-width: 2px;
+  stroke-border: 3px;
 }
 
 </style>
-<button type="button" class="filter-btn" id="Africa" value="Africa">Add/Remove Africa</button>
-<button type="button" class="filter-btn" id="orange" value="Asia">Add/Remove Asia</button>
-<button type="button" class="filter-btn" id="green" value="Europe">Add/Remove Europe</button>
-<button type="button" class="filter-btn" id="yellow" value="South America">Add/Remove South America</button>
-<button type="button" class="filter-btn" id="red" value="North America">Add/Remove North America</button>
+<button type="button" class="filter-btn" id="Africa" value="Africa">Add or Remove <br/> Africa</button>
+<button type="button" class="filter-btn" id="Asia" value="Asia">Add or Remove <br/>Asia</button>
+<button type="button" class="filter-btn" id="Europe" value="Europe">Add or Remove <br/>Europe</button>
+<button type="button" class="filter-btn" id="SA" value="South America">Add or Remove<br/> South America</button>
+<button type="button" class="filter-btn" id="NA" value="North America">Add or Remove <br/>North America</button>
 <svg width="960" height="500"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script
@@ -65,8 +106,18 @@ var svg = d3.select("svg"),
     height = +svg.attr("height"),
     radius = 7
 
+d3.select('body')
+                .append('h1')
+                .html('International Neutrality Agreements 1816-2012');
+
+d3.select('body')
+                .append('h4')
+                .html('Countries with military alliances are connected with a grey link. Hover over points to see the country and hover over links to see the year of the neutrality agreement.'+  "<br/>" +  "<br/>" +  'North American, Asian, and European countries are prominently grouped, representing the 1962 International Agreement on the Neutrality of Laos.' +  "<br/>" +  "<br/>" +  'Gibler, Douglas M. 2009. International military alliances, 1648-2008. CQ Press.');
 //  d3 color scales
-var color = d3.scaleOrdinal(d3.schemeCategory10);
+//var color = d3.scaleOrdinal(d3.schemeCategory10);
+var color = d3.scaleOrdinal()
+                .range(['#ffd92f','#fc8d62','#8da0cb','#e78ac3','#66c2a5','#a6d854'])
+                .domain(["Africa", "Asia", "Europe", "North America", "South America", "Oceania"]);
 
 var link = svg.append("g").selectAll(".link"),
   node = svg.append("g").selectAll(".node");
@@ -75,7 +126,7 @@ var link = svg.append("g").selectAll(".link"),
 var simulation = d3.forceSimulation()
   .force("link", d3.forceLink().id(function(d) { return d.id; }))
     .force("charge", d3.forceManyBody().distanceMax([150]))
-    .force("center", d3.forceCenter(width / 2, height / 2));
+    .force("center", d3.forceCenter(width / 2.5, height / 1.75));
 
 //  filtered types
 typeFilterList = [];
@@ -107,11 +158,6 @@ d3.json("alliances_json.json", function(err, g) {
     l.targetGroup = nodeByID[l.target].group.toString();
   });
 
-  g.links1.forEach(function(l) {
-    l.sourcey = l.source;
-    l.targety = l.target;
-  });
-
   graph = g;
   store = $.extend(true, {}, g);
 
@@ -136,7 +182,7 @@ function update() {
         )
 
     newNode.append("title")
-      .text(function(d) { return "group: " + d.group + "\n" + "id: " + d.id; });
+      .text(function(d) { return  d.id; });
   //  ENTER + UPDATE
   node = node.merge(newNode);
 
@@ -149,7 +195,7 @@ function update() {
     .attr("class", "link");
 
   newLink.append("title")
-      .text(function(d) { return "Start: " + d.start + "\n" + "value: " + d.value; });
+      .text(function(d) { return "Year Formed: " + d.start; });
   //  ENTER + UPDATE
   link = link.merge(newLink);
 
