@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neutral on the Dotted Line, Conflict at the Border"
-date: 2017-07-17
+date: 2017-07-19
 ---
 
 ![Soviet-Japanese Neutrality](https://upload.wikimedia.org/wikipedia/commons/d/dd/Molotov_signs_the_Soviet%E2%80%93Japanese_Neutrality_Pact.jpg)
