@@ -6,7 +6,8 @@ date: 2017-07-17
 
 ![Soviet-Japanese Neutrality](https://upload.wikimedia.org/wikipedia/commons/d/dd/Molotov_signs_the_Soviet%E2%80%93Japanese_Neutrality_Pact.jpg)
 
-When it comes to international relations, an alliance is defined as a formal contingent commitment made by two or more states to some further action. A written form of the agreement is often made public to other states in the system. There are four main types of military agreements and each of them have some important differences- both the terms and outcomes of them often differ. Some lead to peace while other are actually more likely to lead to conflict.
+When it comes to international relations, an alliance is defined as a formal contingent commitment made by two or more states to some further action. A written form of the agreement is often made public to other states in the system. There are four main types of military agreements and each of them have some important differences- both the terms and outcomes of them often differ. Some lead to peace while other are actually more likely to lead to conflict.  
+
 
 ## Types of Military Agreement (highest to lowest):
 
@@ -57,10 +58,10 @@ The highest level of agreement between two states in any given year was recorded
 
 Citations
 
-1. International Conflict: Logic and Evidence
+1. [1] International Conflict: Logic and Evidence
 Stephen L. Quackenbush
 CQ Press, Aug 1, 2014 - Political Science - 360 pages
 
-2. Gibler, Douglas M. 2009. International military alliances, 1648-2008. CQ Press.  
+2. [2] Gibler, Douglas M. 2009. International military alliances, 1648-2008. CQ Press.  
 
-3. "Indo-Pak Shimla Agreement: 40 years later". IANS. IBN Live, CNN IBN. 2 July 2012. Retrieved 27 September 2013.
+3. [3] "Indo-Pak Shimla Agreement: 40 years later". IANS. IBN Live, CNN IBN. 2 July 2012. Retrieved 27 September 2013.
