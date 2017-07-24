@@ -77,9 +77,8 @@ h4 {
 }
 
 .link {
-  stroke: gray;
-  stroke-width: 2px;
   stroke-border: 3px;
+  stroke-width: 2px;
 }
 
 </style>
@@ -111,7 +110,7 @@ d3.select('body')
 
 d3.select('body')
                 .append('h4')
-                .html('Countries with military alliances are connected with a grey link. Hover over points to see the country and hover over links to see the year of the neutrality agreement.'+  "<br/>" +  "<br/>" +  'North American, Asian, and European countries are prominently grouped, representing the 1962 International Agreement on the Neutrality of Laos.' +  "<br/>" +  "<br/>" +  'Gibler, Douglas M. 2009. International military alliances, 1648-2008. CQ Press.');
+                .html('Countries with military alliances are connected with a link. Red links represent pairs of countries that have seen more than 3 instances of conflict. Hover over points to see the country and hover over links to see the year of the neutrality agreement.'+  "<br/>" +  "<br/>" +  "<br/>" +  'Gibler, Douglas M. 2009. International military alliances, 1648-2008. CQ Press.');
 //  d3 color scales
 //var color = d3.scaleOrdinal(d3.schemeCategory10);
 var color = d3.scaleOrdinal()
@@ -191,7 +190,8 @@ function update() {
   link.exit().remove();
   //  ENTER
   newLink = link.enter().append("line")
-    .attr("class", "link");
+    .attr("class", "link")
+    .attr("stroke", function(d) {if (+d.conflict_count>3) return '#a50f15'; else if (+d.conflict_count>0) return 'gray'; else return 'gray';});
 
   newLink.append("title")
       .text(function(d) { return "Year Formed: " + d.start; });
