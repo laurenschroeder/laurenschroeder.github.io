@@ -19,7 +19,6 @@ When it comes to international relations, an alliance is defined as a formal con
 
 ### entente : country 1 agreed to consult with country 2 if a crisis occurred
 
-Singer and Small (1968, 280n10) note that  neutrality and nonaggression pacts have historically had a greater impact on the international system than defense pacts.
 
 ## Comparing Military Disputes and Alliances:
 
@@ -50,7 +49,7 @@ To look at more examples of international neutrality agreements throughout histo
 Overall, allied states see less conflict but the results depend more on the specific agreements of the alliance. Nonagression and defense agreements show decreased conflict in the future but neutrality provisions tend to correlate with future conflict. As counterintuitive as this seems, many times neutrality pacts are just a band-aid for a deep-rooted conflict.
 
 
-## The Dataset:
+### The Dataset:
 
 These formalized alliances are tracked and compiled into a dataset that can be used by alliance theory researchers (2). There are also many informal alliances and trade agreements that are imperative to international relationships but that are omitted from this dataset which consists only of military agreements. 
 
