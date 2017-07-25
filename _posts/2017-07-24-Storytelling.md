@@ -18,6 +18,6 @@ Emotion is an important part of storytelling. Hearing about the experiences of 2
 
 ## Storyboarding an Emotional Story 
 
-My post "The "Mexico-American War": What Does Mexico Call It?" was made with this type of storyboarding techniques and can be seen <a href="https://laurenschroeder.github.io/2017/07/25/Invasion/">here</a>.
+My post "The "Mexico-American War": What Does Mexico Call It?" was made with this type of storyboarding techniques and can be seen <a href="https://laurenschroeder.github.io/2017/07/25/Invasion.html">here</a>.
 
 [1] Gibler, Douglas M. 2009. International military alliances, 1648-2008. CQ Press.  
