@@ -78,7 +78,7 @@ h4 {
 
 .link {
   stroke-border: 3px;
-  stroke-width: 2px;
+  stroke-width: 3px;
 }
 
 </style>
@@ -87,7 +87,7 @@ h4 {
 <button type="button" class="filter-btn" id="Europe" value="Europe">Add or Remove <br/>Europe</button>
 <button type="button" class="filter-btn" id="SA" value="South America">Add or Remove<br/> South America</button>
 <button type="button" class="filter-btn" id="NA" value="North America">Add or Remove <br/>North America</button>
-<svg width="760" height="400"></svg>
+<svg width="860" height="400"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script
   src="https://code.jquery.com/jquery-3.2.1.min.js"
@@ -110,7 +110,7 @@ d3.select('body')
 
 d3.select('body')
                 .append('h4')
-                .html('Countries with military alliances are connected with a link. Red links represent pairs of countries that have seen more than 3 instances of conflict. Hover over points to see the country and hover over links to see the year of the neutrality agreement.'+  "<br/>" +  "<br/>" +  "<br/>" +  'Gibler, Douglas M. 2009. International military alliances, 1648-2008. CQ Press.');
+                .html('Countries with military alliances are connected with a link. Red links represent pairs of countries that have seen more than 3 instances of conflict from 1993-2001. Hover over points to see the country and hover over links to see the year of the neutrality agreement.'+  "<br/>" +  "<br/>" +  "<br/>" +  'Gibler, Douglas M. 2009. International military alliances, 1648-2008. CQ Press.');
 //  d3 color scales
 //var color = d3.scaleOrdinal(d3.schemeCategory10);
 var color = d3.scaleOrdinal()
@@ -137,7 +137,7 @@ $(".filter-btn").on("click", function() {
   } else {
     typeFilterList.push(id);
   }
-  filter();
+  filter_neutral();
   update();
 });
 
@@ -194,7 +194,7 @@ function update() {
     .attr("stroke", function(d) {if (+d.conflict_count>3) return '#a50f15'; else if (+d.conflict_count>0) return 'gray'; else return 'gray';});
 
   newLink.append("title")
-      .text(function(d) { return "Year Formed: " + d.start; });
+      .text(function(d) { return "Year Formed: " + d.start + " Most Recent Conflict Start: " + d.mx_year; });
   //  ENTER + UPDATE
   link = link.merge(newLink);
 
